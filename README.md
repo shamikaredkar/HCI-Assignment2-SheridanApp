@@ -33,5 +33,21 @@ YouTube Link: https://youtu.be/FJIO_LgVqrM
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/83643214/219992021-b0e9579f-e73f-4a7b-8a46-970b6b25277b.png">
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/83643214/219992026-22e2ac58-b3ec-4ab4-9d32-72f3230608af.png">
 
+# Five Functionalities based on Need Finding and Competitive Analysis
+here are five new desirable functionalities that could be generated based on the process of need finding and competitive analysis:
+
+Virtual wardrobe management with AI outfit suggestions - An app that allows users to upload photos of their clothing items and creates a virtual wardrobe, making outfit suggestions based on weather, occasion, and personal style using artificial intelligence (AI) technology.
+
+Personalized meal planner with grocery delivery - An app that creates a weekly meal plan based on dietary preferences, allergies, and health goals, and offers grocery delivery services for the ingredients needed.
+
+Virtual interior designer with AR visualization - An app that uses augmented reality (AR) technology to visualize different furniture and decor options in a user's space, allowing them to design their ideal living space without having to physically move furniture.
+
+Personal finance coach with gamification - An app that acts as a personal finance coach, offering personalized advice and gamifying financial goals to make saving and budgeting more engaging and rewarding.
+
+Community-based learning platform with live video mentoring - An app that connects learners with experienced professionals in various fields for live video mentoring sessions, allowing for personalized learning and skill development based on real-world experience.
+
+
+
+
 
 
