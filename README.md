@@ -21,6 +21,7 @@ c.	The app should ensure that student data is kept secure and confidential, and 
 
 # LINKS
 Figma Link: https://www.figma.com/file/UOgeM7EPxn2iZwYeZy1qUU/Assignment-2?node-id=0%3A1&t=UEAcOM1kffHImoWY-1
+
 YouTube Link: https://youtu.be/FJIO_LgVqrM
 
 # SCREENSHOTS
